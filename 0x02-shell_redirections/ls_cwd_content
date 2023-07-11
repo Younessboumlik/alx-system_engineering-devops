@@ -1,0 +1,16 @@
+total 4
+drwxr-xr-x 1 younessboumlik younessboumlik 4096 Jul 11 03:47 .
+drwxr-xr-x 1 younessboumlik younessboumlik 4096 Jul 11 00:06 ..
+-rwxr-xr-x 1 younessboumlik younessboumlik   32 Jul 11 00:39 0-hello_world
+-rw-r--r-- 1 younessboumlik younessboumlik   38 Jul 11 02:33 1
+-rwxr-xr-x 1 younessboumlik younessboumlik   28 Jul 11 01:55 1-confused_smiley
+-rwxr-xr-x 1 younessboumlik younessboumlik   28 Jul 11 02:27 2-hellofile
+-rwxr-xr-x 1 younessboumlik younessboumlik   39 Jul 11 03:40 3-twofiles
+-rwxr-xr-x 1 younessboumlik younessboumlik   35 Jul 11 03:25 4-lastlines
+-rwxr-xr-x 1 younessboumlik younessboumlik   35 Jul 11 03:26 5-firstlines
+-rwxr-xr-x 1 younessboumlik younessboumlik   36 Jul 11 03:33 6-third_line
+-rwxr-xr-x 1 younessboumlik younessboumlik   99 Jul 11 03:47 7-file
+-rw-r--r-- 1 younessboumlik younessboumlik   36 Jul 11 03:47 8-cwd_state
+-rw-r--r-- 1 younessboumlik younessboumlik   20 Jul 11 00:24 README.md
+-rw-r--r-- 1 younessboumlik younessboumlik   38 Jul 11 03:36 \*\'Best
+-rw-r--r-- 1 younessboumlik younessboumlik    0 Jul 11 03:47 ls_cwd_content
