@@ -1,6 +1,10 @@
 #!/bin/bash
 
-#+configure server.
+#+    The path to the file to be transferred.
+#+    The IP of the server to transfer the file to.
+#+    The username that scp connects with.
+#+    The path to the SSH private key that scp uses.
+# Configure server.
 
 if [ $# -lt 4 ]
 then
