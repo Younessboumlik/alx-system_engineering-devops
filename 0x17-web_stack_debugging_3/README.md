@@ -1,1 +1,1 @@
-<h1 style = "color:green;"> Web stack debugging </h1>
+<h1 color🌲> Web stack debugging </h1>
