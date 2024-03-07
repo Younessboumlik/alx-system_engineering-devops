@@ -1,1 +1,1 @@
-<h1 color🌲> Web stack debugging </h1>
+<h1> Web stack debugging </h1>
