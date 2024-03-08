@@ -1,7 +1,7 @@
 <h1>Issue Summary</h1>
 
 <h3>Duration of the Outage:</h3> The outage started at 2:00 PM GMT on March 1, 2024, and ended at 4:30 PM GMT on the same day.
-<h3>Impact:</h3> The main website was down, causing a disruption in service for approximately 45% of our users.
+<h3>Impact:</h3> The main website was down, causing a disruption in service for approximately 55% of our users.
 <h3>Root Cause:</h3> A misconfiguration in the load balancer led to an excessive traffic load on one server.
 <h1>Timeline</h1>
 <ul>
